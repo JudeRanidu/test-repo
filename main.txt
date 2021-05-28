@@ -1,7 +1,4 @@
 Testing 1
 Testing 2
-<<<<<<< HEAD
-Test
-=======
 Testing 3
->>>>>>> ce1a8b82ca43bcbb59188777087f2f0fa7f49909
+
